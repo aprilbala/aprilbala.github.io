@@ -6,7 +6,7 @@
     "email": "aaibala@hawaii.edu",
     "phone": "",
     "website": "https://aprilbala.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "96819",
@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Web Design & Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Internet of Things",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Mobile Application Development",
       "keywords": [
       ]
     }
@@ -74,7 +72,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
