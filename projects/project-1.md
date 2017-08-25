@@ -11,7 +11,7 @@ labels:
 summary: Created an Applet of a cup of apple juice for my 'Drawing Applet' project. 
 ---
 
-<img src="../images/applet-art.png">
+<img src="../images/applet-art.png" width="50%">
 
 
 [ INSERT WRITEUP FOR APPLET DRAWING PROJECT HERE ]
