@@ -11,9 +11,7 @@ labels:
 summary: Created an Applet of a cup of apple juice for my 'Drawing Applet' project. 
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/applet-art.png">
-</div>
+<img src="../images/applet-art.png">
 
 
 [ INSERT WRITEUP FOR APPLET DRAWING PROJECT HERE ]
