@@ -16,7 +16,7 @@ summary: Created an Applet of a cup of apple juice for my 'Drawing Applet' proje
 
 [ INSERT WRITEUP FOR APPLET DRAWING PROJECT HERE ]
 
-<img src = "../images/applejuice.gif" width="40%">
+<img src = "../images/applejuice.gif" width="20%">
 
 The link to this project is [here](https://github.com/aprilbala/aprilbala.github.io/tree/master/projects/Project01-Applet).
 
