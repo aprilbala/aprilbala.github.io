@@ -25,7 +25,7 @@ For this project, I was the lead programmer who was responsible for programming 
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
-The link to this project is [here]. ()
+The link to this project is [here]().
 
 
 
