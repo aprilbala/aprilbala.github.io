@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Applet Art
+title: Applet Juice
 permalink: projects/applet
 date: 2016
 labels:
@@ -12,10 +12,7 @@ summary: Created an Applet of a cup of apple juice for my 'Drawing Applet' proje
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/applet-art.png">
 </div>
 
 
@@ -25,7 +22,7 @@ For this project, I was the lead programmer who was responsible for programming 
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
-The link to this project is [here]().
+The link to this project is [here](https://github.com/aprilbala/aprilbala.github.io/tree/master/projects/Project01-Applet).
 
 
 
