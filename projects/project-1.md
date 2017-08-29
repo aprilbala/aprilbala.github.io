@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/juice.png
 title: Applet Juice
 permalink: projects/applet
 date: 2016
