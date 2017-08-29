@@ -2,12 +2,12 @@
 layout: essay
 type: essay
 published: false
-title: Smart Questions, Good Answers
-date: 2017-12-31
+title: ~Insert Essay Title Here~
+date: 2017-12-31 (Sample Date)
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Essay
+  - 
+  - 
 ---
 
 <img class="ui medium left floated image" src="../images/rtfm.png">
