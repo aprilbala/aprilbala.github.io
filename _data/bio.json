@@ -70,12 +70,23 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2014-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "",
+      "studyType": "",
+      "startDate": "2014-09-01",
+      "endDate": "2016",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    
   ],
   "work": [
     {
