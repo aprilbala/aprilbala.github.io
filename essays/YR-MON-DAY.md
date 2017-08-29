@@ -1,8 +1,9 @@
 ---
 layout: essay
 type: essay
+published: false
 title: The difficult things will always be difficult
-date: 2016-02-06
+date: 2017-12-30
 labels:
   - Engineering
 ---
