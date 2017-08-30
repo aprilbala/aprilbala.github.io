@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-published: false
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+published: true
+image: images/heartbreak.jpg
+title: Heart
+permalink: projects/coabh
 date: 2014
 labels:
   - High School
   - Senior Project
   - Website
   - 
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A website I managed with Wix.com for my Senior Project.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
