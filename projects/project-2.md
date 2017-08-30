@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/heart-graphic.jpg
-title: Don't Go Bacon My Heart
+title: All These Bandages, and You Still Broke My Heart
 permalink: projects/coabh
 date: 2014
 labels:
