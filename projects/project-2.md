@@ -15,6 +15,8 @@ summary: A website I managed with Wix.com for my Senior Project.
 
 <img class="ui large right floated rounded image" src="../images/coabh-homepage.png" >
 
+Cracks of a Broken Heart is a website I created and managed for my high school senior project. 
+
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
