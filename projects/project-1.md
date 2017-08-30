@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/apple-pattern.jpg
+image: images/apple-funny.jpg
 title: Applet Juice
 permalink: projects/applet
 date: 2016
