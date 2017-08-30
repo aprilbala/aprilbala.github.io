@@ -10,7 +10,6 @@ labels:
   - High School
   - Senior Project
   - Website
-  
 summary: A website I managed with Wix.com for my Senior Project.
 ---
 
