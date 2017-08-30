@@ -15,7 +15,7 @@ summary: A website I managed with Wix.com for my Senior Project.
 
 <img class="ui large right floated rounded image" src="../images/coabh-homepage.png">
 
-Cracks of a Broken Heart is a website I created and managed for my high school senior project. This was a long-term project that started at the end of my junior year. It consisted of a research paper, product, and presentation. What I am sharing with you, is my product. 
+*Cracks of a Broken Heart* (COABH) is a website I created and managed for my high school senior project, *Coping Methods for Teenages and the End of Relationships*. This was a long-term project that started at the end of my junior year. It consisted of a research paper, product, and presentation. What I am sharing with you, is my product. 
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
