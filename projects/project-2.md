@@ -13,7 +13,7 @@ labels:
 summary: A website I managed with Wix.com for my Senior Project.
 ---
 
-<img src="../images/coabh-homepage.png" width="90%">
+<img src="../images/coabh-homepage.png" width="800">
 
 *Cracks of a Broken Heart* (COABH) is a website I created and managed for my high school senior project, *Coping Methods for Teenages and the End of Relationships*. This was a long-term project that started at the end of my junior year. It consisted of a research paper, product, and presentation. What I am sharing with you, is my product. 
 
@@ -23,6 +23,6 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-<img src="../images/coabh-stories.png" width="90%">
+<img src="../images/coabh-stories.png" width="800">
 
 To see more about this project, you can click [here](http://cracksofabrokenheart.wixsite.com/coabh).
