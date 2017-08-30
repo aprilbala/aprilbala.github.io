@@ -13,7 +13,7 @@ labels:
 summary: A website I managed with Wix.com for my Senior Project.
 ---
 
-<img class="ui large right floated rounded image" src="../images/coabh-homepage.png">
+<img src="../images/coabh-homepage.png" width="90%">
 
 *Cracks of a Broken Heart* (COABH) is a website I created and managed for my high school senior project, *Coping Methods for Teenages and the End of Relationships*. This was a long-term project that started at the end of my junior year. It consisted of a research paper, product, and presentation. What I am sharing with you, is my product. 
 
