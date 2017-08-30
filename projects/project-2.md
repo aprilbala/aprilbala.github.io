@@ -13,7 +13,7 @@ labels:
 summary: A website I managed with Wix.com for my Senior Project.
 ---
 
-<img class="ui large right floated rounded image" src="../images/coabh-homepage.png" width="80%" >
+<img class="ui large right floated rounded image" src="../images/coabh-homepage.png" >
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
