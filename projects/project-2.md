@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/pixel-heart.jpg
+image: images/pixel-heart.png
 title: Heart
 permalink: projects/coabh
 date: 2014
