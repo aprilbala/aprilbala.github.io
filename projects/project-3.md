@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-published: false
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+published: true
+image: images/grocerystore.jpg
+title: Queue Need to Move to Another Lane
+permalink: projects/checkoutqueue
+date: 2017
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Queue
+summary: An assignment for ICS 211.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
