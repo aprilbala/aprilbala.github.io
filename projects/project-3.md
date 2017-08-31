@@ -13,6 +13,7 @@ labels:
 summary: A checkout lanes simulator program using a circular array queue for ICS 211.
 ---
 
+Here is an example test that was done:
 <img src="../images/checkoutlanes.png" width="750">
 
 The link to this project is [here](https://github.com/aprilbala/aprilbala.github.io/tree/master/projects/project-checkoutLanesQueue).
