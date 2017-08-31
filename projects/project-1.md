@@ -27,9 +27,9 @@ For this assignment, we specifically needed to follow the criteria below:
     * Add color to your fonts
     * Use of style -- i.e. **bold**, *italics*
 
-In addition, we were required to "animate" some part of our applet shapes with the use of a loop. 
+In addition, we had to "animate" some part of our applet shapes with the use of a loop. 
 
-Here is a sample of what my applet looked like in action: 
+Here is a sample of what my applet looked like in action in the form of a GIF: 
 
 <img src = "../images/applejuice.gif" width="20%">
 
