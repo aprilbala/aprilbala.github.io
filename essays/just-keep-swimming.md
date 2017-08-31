@@ -10,7 +10,8 @@ labels:
   - Changes
 ---
 
-<img class="ui medium right floated rounded image" src="../images/painting.JPG" width="600">
+<img class="ui medium left floated rounded image" src="../images/painting.JPG" width="600">
+Growing up, I was always so clueless of what I wanted to do in life. As a little youngin’, I loved anything that had to do with art. My parents supported this passion by providing me with crayons, markers, paint—anything I needed to fulfill my artistic needs. This is a painting I did in the 1st grade. Till this day, it’s still framed on wall in our home.
 
 
 
