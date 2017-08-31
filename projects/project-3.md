@@ -2,13 +2,14 @@
 layout: project
 type: project
 published: true
-image: images/grocerystore.jpg
+image: images/grocerycart.jpg
 title: Queue Need to Move to Another Lane
 permalink: projects/checkoutqueue
 date: 2017
 labels:
   - Java
-  - Queue
+  - Queues
+  - Eclipse
 summary: An assignment for ICS 211.
 ---
 
