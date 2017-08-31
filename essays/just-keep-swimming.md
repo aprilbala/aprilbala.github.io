@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Igniting the fire
+title: Just Keep Swimming
 date: 2017-08-31
 labels:
   - Software Engineering
