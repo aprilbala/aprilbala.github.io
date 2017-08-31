@@ -26,7 +26,7 @@ For this assignment, we specifically needed to follow the criteria below:
   * Add color to your fonts
   * Use of style -- i.e. **bold**, *italics*
 
-Here is a sample of what the applet looked like in action: 
+Here is a sample of what my applet looked like in action: 
 
 <img src = "../images/applejuice.gif" width="20%">
 
