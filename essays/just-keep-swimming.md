@@ -3,11 +3,11 @@ layout: essay
 type: essay
 published: true
 title: Igniting the fire
-date: 2017-08-29
+date: 2017-08-31
 labels:
   - Software Engineering
   - Learning
-  - Change
+  - Changes
 ---
 
 <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
