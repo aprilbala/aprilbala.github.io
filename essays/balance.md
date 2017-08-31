@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Just Keep Swimming
+title: Balance
 date: 2017-08-31
 labels:
   - Software Engineering
