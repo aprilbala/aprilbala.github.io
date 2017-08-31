@@ -17,13 +17,17 @@ This is an an assignment that was done for my ICS 111 class, using [jGRASP](http
 
 For this assignment, we specifically needed to follow the criteria below:
 * Colors
-  * 
-  * Custom colors (using RGB values)
-* Shapes
-* Lines
+  * Use of pre-set colors and custom colors (using RGB values)
+* Shapes & Lines
+  * Ovals, rectangles, arcs to make shapes
+  * Fill shapes with color, too.
 * Fonts
+  * Two different fonts
+  * Add color to your fonts
+  * Use of style -- i.e. **bold**, *italics*
 
 Here is a sample of what the applet looked like in action: 
+
 <img src = "../images/applejuice.gif" width="20%">
 
 The link to this project is [here](https://github.com/aprilbala/aprilbala.github.io/tree/master/projects/project-applet).
