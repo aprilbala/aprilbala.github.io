@@ -29,7 +29,7 @@ For this assignment, we specifically needed to follow the criteria below:
 
 In addition, we had to "animate" some part of our applet shapes with the use of a loop. 
 
-Here is a sample of what my applet looked like in action in the form of a GIF: 
+Here is a GIF sample of what my applet looked like in action: 
 
 <img src = "../images/applejuice.gif" width="20%">
 
