@@ -16,7 +16,7 @@ As a little girl, I loved anything that had to do with art. My parents supported
 
 <br><br>
 
-<img class="ui medium left floated rounded image" src="../images/maplestory.JPG" width="600">
+<img class="ui medium right floated rounded image" src="../images/maplestory.JPG" width="600">
 Computer and video games hold a huge part of my life and heart. One of the first computer games I played was a Lilo and Stitch game called *626 Sandwich Stacker*. I was hooked from the start, and that was only the beginning of my love for playing games. I juggled between computer games and videos games a lot. I liked playing on our Nintendo DS Lite, Wii, and PlayStation. But I also loved to play PC role-play games like MapleStory. Not only did I enjoy playing these games, but the graphics and structure interested me too. How did the creators design them? How do these games have so much elements that keep me coming back for more?
 
 
