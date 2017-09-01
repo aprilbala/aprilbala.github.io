@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: images/apple-funny.jpg
 title: Applet Juice
 permalink: projects/applet
