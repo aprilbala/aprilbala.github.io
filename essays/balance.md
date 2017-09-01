@@ -13,7 +13,6 @@ labels:
 <img class="ui medium left floated rounded image" src="../images/painting.JPG" width="600">
 As a little girl, I loved anything that had to do with art. My parents supported this passion by providing me with crayons, markers, paint—anything I needed to fulfill my artistic needs. This is a painting I did in the 1st grade. Till this day, it’s still framed on a wall in our home. But, slowly and surely, my need for art began to phase out because I felt that my artistic abilities sucked compared to others. I did, however find a love for design due to a graphics design class I took in high school and the making of my senior project website. 
 
-
 <br>
 
 <img class="ui medium right floated rounded image" src="../images/maplestory.JPG" width="600">
