@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Balance
+title: Finally Found That Balance
 date: 2017-08-31
 labels:
   - Art
