@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: JavaScript
+title: It Gets Better
 date: 2017-09-01
 labels:
   - Javascript
