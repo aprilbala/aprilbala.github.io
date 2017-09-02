@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-published: false
-title: JavaScripy
+published: true
+title: JavaScript
 date: 2017-09-01
 labels:
   - Javascript
