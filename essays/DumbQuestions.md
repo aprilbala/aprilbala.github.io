@@ -16,9 +16,9 @@ In one of my first few computer science classes, one of my professors emphasized
 <img class="ui medium left floated image" src="../images/DumbQGoogle.png">
 There are a lot of smart questions, however there are even more dumb questions. It doesn’t help that going through school, our professors always say that it’s okay to ask questions and that there is no such thing as a *dumb* question. Well they lied, there are such things as a dumb question. Google alone shows how much of a dumb question people can ask. When I typed “How do I…” into Google, the second top searched item was “How do I get home?”. How would Google know how to get *you* home?? 
 
-## So then, what is a "dumb" question?
+# So then, what is a "dumb" question?
 
 
-## What is considered a smart question?
+# What is considered a smart question?
 
 
