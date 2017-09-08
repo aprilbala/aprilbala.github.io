@@ -5,9 +5,10 @@ published: true
 title: They Lied to Us. Dumb Questions are Real.
 date: 2017-09-07
 labels:
-  - Questions
-  - 
-  - 
+  - Learning
+  - Help
+  - Smart Questions
+  - Dumb Questions
 ---
 
 In one of my first few computer science classes, one of my professors emphasized that *“Google is your best friend.”* And in indeed, Google definitely is our best friend. Whenever we have a question we need answered, 99.95% Google has the answer. If we have an iPhone, Siri sometimes has the answers we need too. 
