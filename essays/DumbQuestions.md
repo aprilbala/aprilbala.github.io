@@ -25,7 +25,4 @@ For a question to be “dumb” and non-smart, shows that we haven’t even atte
 ## What is considered a smart question?
 
 ## Continue to ask questions. Just do so the *smart* way. 
-I admit, there are times when I’m too scared to ask questions because I don’t want to sound stupid. I’m sure there are people that feel this way too. Although it is normal to feel this way, sometimes, we just need to suck it up and seek the answers we need. Whenever you feel like a question you have is a stupid one, step back and try to seek the answer yourself. Use Google, seek answers from a friend. It’s important that you try to find the answer yourself, before seeking help from others. Put in some effort, and don’t be lazy! Don’t waste another person’s time just because you were lazy to find the answer on your own. If all else fails and you play your cards right, 
-
-
-
+I admit, there are times when I’m too scared to ask questions because I don’t want to sound stupid. I’m sure there are people that feel this way too. Although it is normal to feel this way, sometimes, we just need to suck it up and seek the answers we need. Whenever you feel like a question you have is a stupid one, step back and try to seek the answer yourself. Use Google, seek answers from a friend. It’s important that you try to find the answer yourself, before seeking help from others. Put in some effort, and don’t be lazy! Don’t waste another person’s time just because you were lazy to find the answer on your own. If all else fails, then ask for help. And maybe, if you play your cards right, you could hide your “stupid” questions the smart way. 
