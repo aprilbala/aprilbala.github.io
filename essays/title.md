@@ -1,14 +1,20 @@
 ---
 layout: essay
 type: essay
-published: false
-title: ~Insert Essay Title Here~
-date: 2017-12-31 (Sample Date)
+published: true
+title: They Lied to Us. There are Dumb Questions.
+date: 2017-09-07
 labels:
   - Essay
   - 
   - 
 ---
+
+In one of my first few computer science classes, one of my professors emphasized that *“Google is your best friend.”*
+
+There are a lot of smart questions, however there are even more dumb questions. Google alone shows how much of a dumb question people can ask. When I typed “How do I…” into Google, the second top searched item was “How do I get home?”. How would Google know how to get *you* home??  
+
+
 
 <img class="ui medium left floated image" src="../images/rtfm.png">
 
