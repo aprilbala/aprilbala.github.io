@@ -31,12 +31,15 @@ I mean, at least it's specific and tells us where and what the error is (well, s
 
 ## What ESLint does not do
 It's all fun and games when you finally get the green checkmark, and you run your code, expecting it to work...*BUT IT DOESN'T*. ESLint will show you errors in your code so that you can fix it, just enough for it to compile/run. But, will not tell you whether or not your code will do what it is meant to do? No, it won't.
-<img class="ui medium left floated image" src="../images/missleading-error.png" width="600">
-ESLint can also be very misleading. It'll show "errors" on parts of your code that actually work, just not the way it wants it to. Today, during a [WOD](http://courses.ics.hawaii.edu/ics314s17/morea/introduction/reading-athletic-software-engineering.html) that I was doing for class, 
+One downside of ESLint is that, it will tell you that your part of your code is wrong, even though you're actually right. It'll show "errors" on parts of your code that actually work, just not the way it wants it to. Today, during a [WOD](http://courses.ics.hawaii.edu/ics314s17/morea/introduction/reading-athletic-software-engineering.html) that I was doing for class, it was misleading to see that I was getting a red squiggly line on a part of my code. In that moment, 
+
+
+<img src="../images/misleading-error.png" width="600">
 
 ## Final Thoughts
 <img class="ui medium right floated image" src="../images/confusedfry-code.png" width="600">
 Despite the downsides of using ESLint, having a form of coding standard to follow provides for some sort of method to the madness of what coding can be. For instance...
 - Any type of coding standard can be helpful for first-time programmers as it can serve as a guide for them on the do's and don'ts of programming.
 - Having a common coding standard facilitates communication between group members on projects, that way everyone is on the same page of understanding, and no one is too confused on what a line of code means or how it was formatted.
+
 I do believe coding standards are important so that our code is readable to others. However, I don't feel that it's more important than having code that actually works. As programmers, I feel like our top priority should be whether or not our code works (the way its *supposed* to), the styling of our code comes next. Personally, I focus more on getting my code to work first, and then fixing it up so that it's clean and easy to read.
