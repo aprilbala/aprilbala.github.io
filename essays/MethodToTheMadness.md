@@ -33,6 +33,6 @@ I mean, at least it's specific and tells us where and what the error is (well, s
 It's all fun and games when you finally get the green checkmark, and you run your code, expecting it to work...*BUT IT DOESN'T*. ESLint will show you errors in your code so that you can fix it, just enough so that you can compile/run it. But, will not tell you whether or not your code will do what it is meant to do? No, it won't.
 
 ## Final Thoughts
-Despite the downsides of using ESLint, having it as a form of coding standard to follow provides for some sort of method to the madness of what coding can be. Any type of coding standard can be helpful for first-time programmers as it can serve as a guide for them on the do's and don'ts of code formatting.
 <img class="ui medium right floated image" src="../images/confusedfry-code.png" width="600">
+Despite the downsides of using ESLint, having it as a form of coding standard to follow provides for some sort of method to the madness of what coding can be. Any type of coding standard can be helpful for first-time programmers as it can serve as a guide for them on the do's and don'ts of code formatting.
 Additionally, by having a common coding standard, this helps on group projects, that way everyone is on the same page of understanding, and no one is too confused on what a line of code means.
