@@ -34,5 +34,5 @@ It's all fun and games when you finally get the green checkmark, and you run you
 
 ## Final Thoughts
 Despite the downsides of using ESLint, having it as a form of coding standard to follow provides for some sort of method to the madness of what coding can be. Any type of coding standard can be helpful for first-time programmers as it can serve as a guide for them on the do's and don'ts of code formatting.
-<img src="../images/confusedfry-code.png" width="600">
+<img class="ui medium right floated image" src="../images/confusedfry-code.png" width="600">
 Additionally, by having a common coding standard, this helps on group projects, that way everyone is on the same page of understanding, and no one is too confused on what a line of code means.
