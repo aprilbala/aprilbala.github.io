@@ -32,7 +32,7 @@ I mean, at least it's specific and tells us where and what the error is (well, s
 ## What ESLint does not do
 It's all fun and games when you finally get the green checkmark, and you run your code, expecting it to work...*BUT IT DOESN'T*. ESLint will show you errors in your code so that you can fix it, just enough for it to compile/run. But, will not tell you whether or not your code will do what it is meant to do? No, it won't.
 <img class="ui medium left floated image" src="../images/missleading-error.png" width="600">
-ESLint can also be very misleading. It'll show "errors" on parts of your code that actually work, just not the way it wants it to. Today, during a (WOD)[http://courses.ics.hawaii.edu/ics314s17/morea/introduction/reading-athletic-software-engineering.html] that I was doing for class
+ESLint can also be very misleading. It'll show "errors" on parts of your code that actually work, just not the way it wants it to. Today, during a [WOD](http://courses.ics.hawaii.edu/ics314s17/morea/introduction/reading-athletic-software-engineering.html) that I was doing for class, 
 
 ## Final Thoughts
 <img class="ui medium right floated image" src="../images/confusedfry-code.png" width="600">
