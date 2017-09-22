@@ -30,11 +30,12 @@ What do I see as a syntax error?
 I mean, at least it's specific and tells us where and what the error is (well, some errors at least), right? Just before this, we worked with [JSFiddle](https://jsfiddle.net/), which is an online code editor for JavaScript, HTML, CSS, or CoffeeScript. I would be so *annoyed* when I ran the console and got an error, but was not told what and where the error in my code was.
 
 ## What ESLint does not do
-It's all fun and games when you finally get the green checkmark, and you run your code, expecting it to work...*BUT IT DOESN'T*. ESLint will show you errors in your code so that you can fix it, just enough for it to compile/run. But, will not tell you whether or not your code will do what it is meant to do? No, it won't.
-One downside of ESLint is that, it will tell you that your part of your code is wrong, even though you're actually right. It'll show "errors" on parts of your code that actually work, just not the way it wants it to. Today, during a [WOD](http://courses.ics.hawaii.edu/ics314s17/morea/introduction/reading-athletic-software-engineering.html) that I was doing for class, it was misleading to see that I was getting a red squiggly line on a part of my code. In that moment, 
+It's all fun and games when you finally get the green checkmark, and you run your code, expecting it to work...*BUT IT DOESN'T*. ESLint will show you errors in your code so that you can fix it, just enough for it to compile/run. But, will it tell you whether or not your code will do what it is meant to do? No, it won't.
+One downside of ESLint--**it can be misleading**. For instance, it will tell you that part of your code is wrong, even though you're actually right. "Errors" on parts of your code will appear, even if it works...it just isn't the way ESLint wants it too. Today, during a [WOD](http://courses.ics.hawaii.edu/ics314s17/morea/introduction/reading-athletic-software-engineering.html) that I was doing for class, it was misleading to see that I was getting a red squiggly line on a part of my code. In that moment, I assumed I was doing something wrong and went about to try a different method. (Keep in mind, that at the time, I didn't bother to try compile and run it). After class, I went back to see what was so wrong with what ESLint was originally alerting me about. I must say, I was displeased to see that even without the green checkmark, my code actually worked the way it was supposed to.
 
-
+<center>
 <img src="../images/misleading-error.png" width="600">
+</center>
 
 ## Final Thoughts
 <img class="ui medium right floated image" src="../images/confusedfry-code.png" width="600">
