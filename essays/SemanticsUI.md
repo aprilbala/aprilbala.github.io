@@ -24,9 +24,9 @@ and turn them into this!
 [Semantic UI](https://semantic-ui.com/) provides software engineers for a numerous amount of UI elements to use in their pages. For example, there are...
 - dropdowns
 - menus
-- icons <i class="hashtag icon"></i><i class="hashtag icon"></i><i class="hand peace icon"></i>,
+- icons <i class="hashtag icon"></i><i class="hand peace icon"></i>,
 - cards
-- buttons <button class="inverted mini ui button">[Click for something cute!](https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg)</button>
+- buttons <button class="ui inverted mini grey button"><a href="https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg">Click for something cute!</a></button>
 - and many more.
 
 
