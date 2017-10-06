@@ -15,14 +15,14 @@ Semantic UI has been so fun to work with. For as long as I can remember, I've al
 The deal with Semantic UI is that we change basic, plain, non-aesthetically pleasing pages likes this...
 
 <center>
-<img src="../images/browswerhistory-htmlcss.png">
+<img src="../images/browserhistory-htmlcss.png" width="600px">
 </center>
 and turn them into this!
 <center>
-<img src="../images/browswerhistory-semanticui.png">
+<img src="../images/browserhistory-semanticui.png" width="600px">
 </center>
 
 <center>
-<img src="../images/ABHCompare1.jpg">
-<img src="../images/ABHCompare2.jpg">
+<img src="../images/ABHCompare1.jpg" width="600px">
+<img src="../images/ABHCompare2.jpg" width="600px">
 </center>
