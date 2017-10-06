@@ -20,15 +20,15 @@ and turn them into this!
 [Semantic UI](https://semantic-ui.com/) provides software engineers for a numerous amount of UI elements to use in their pages. For example, there are...
 - dropdowns
 - menus
-- icons <i class="hashtag icon"></i><i class="hand peace icon"></i>,
+- icons <i class="hashtag icon"></i><i class="hand peace icon"></i>
 - cards
-- buttons <button class="ui mini blue button"><a href="https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg">Click for something cute!</a></button>
+- buttons <button class="ui mini inverted blue button"><a href="https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg">Click for something cute!</a></button>
 - and many more.
 
 In my software engineering class, we were able to practice our Semantic UI skills by remaking already existed websites (that do not use Semantic UI), like [Island Snow](https://islandsnow.com/). We also had a the opportunity to remake a website of our choice. I chose a makeup brand, [Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/).
 
 <center>
-<div class="ui images"><img src="../images/ABHCompare1.jpg" width="400px"><img src="../images/ABHCompare2.jpg" width="400px"></div>
+<div class="ui images"><img src="../images/abh.jpg" width="600px"></div>
 </center>
 
 I've heard a bunch of mixed feelings about Semantic UI. Some don't care much for the looks that it can give, and rather stick to basic HTML/CSS. And others are the exact opposite. Personally, I like the look and feel of pages that don't look so basic, and non-effortless.
