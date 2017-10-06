@@ -22,13 +22,14 @@ and turn them into this!
 - menus
 - icons <i class="hashtag icon"></i><i class="hand peace icon"></i>
 - cards
-- buttons <button class="ui mini inverted blue button"><a href="https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg">Click for something cute!</a></button>
+- buttons <button class="ui mini basic black button" href="https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg">Click for something cute!</button>
 - and many more.
 
-In my software engineering class, we were able to practice our Semantic UI skills by remaking already existed websites (that do not use Semantic UI), like [Island Snow](https://islandsnow.com/). We also had a the opportunity to remake a website of our choice. I chose a makeup brand, [Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/).
-
+In my software engineering class, we were able to practice our Semantic UI skills by remaking already existed websites (that do not use Semantic UI), like [Island Snow](https://islandsnow.com/). We also had a the opportunity to remake a website of our choice. I chose a makeup brand, [Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/). The screenshots on the left side of the collage is the original website, while the right side are my takes on it, with the use of Semantic UI elements. I implemented the header top menu, footer, and the main center image on the website page. In addition, I used [cards](https://semantic-ui.com/views/card.html) to display the latest products that this brand is promoting.
 <center>
 <div class="ui images"><img src="../images/abh.jpg" width="600px"></div>
 </center>
+To see the code for this, you can click [here](https://github.com/aprilbala/abhcosmetics-mock).
+
 
 I've heard a bunch of mixed feelings about Semantic UI. Some don't care much for the looks that it can give, and rather stick to basic HTML/CSS. And others are the exact opposite. Personally, I like the look and feel of pages that don't look so basic, and non-effortless.
