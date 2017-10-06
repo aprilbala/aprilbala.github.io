@@ -22,7 +22,7 @@ and turn them into this!
 - menus
 - icons <i class="hashtag icon"></i><i class="hand peace icon"></i>
 - cards
-- buttons <button class="ui icon button">Click for something cute! <a href="https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg"><i class="photo icon"></i></a></button>
+- buttons    Click for something cute! <button class="ui icon button"><a href="https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg"><i class="photo icon"></i></a></button>
 - and many more.
 
 In my software engineering class, we were able to practice our Semantic UI skills by remaking already existing websites (that do not use Semantic UI), like [Island Snow](https://islandsnow.com/). We also had the opportunity to remake a website of our choice. I chose a makeup brand, [Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/). The screenshots on the left side of the following collage is the original website, while the right side are my takes on it with the use of Semantic UI elements. I implemented the headers (which include a dropdown menu), footer, and the main center image on the website page. In addition, I used [cards](https://semantic-ui.com/views/card.html) to display the latest products that this brand is promoting.
