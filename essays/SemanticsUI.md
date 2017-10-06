@@ -26,8 +26,8 @@ and turn them into this!
 - menus
 - icons <i class="hashtag icon"></i><i class="hashtag icon"></i><i class="hand peace icon"></i>,
 - cards
-- buttons <button class="mini ui button">[Click for something cute!](https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg)</button>
-- and many more. 
+- buttons <button class="inverted mini ui button">[Click for something cute!](https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg)</button>
+- and many more.
 
 
 I've heard a bunch of mixed feelings about Semantic UI. Some don't care much for the looks that it can give, and rather stick to basic HTML/CSS. And others are the exact opposite. Personally, I like the look and feel of pages that don't look so basic, and non-effortless.
