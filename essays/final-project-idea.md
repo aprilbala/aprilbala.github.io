@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-# Project Idea: 
+# Project Idea: Eat With Us
 
 ## Overview
 *The problem:* Sick of on campus dining? Sick of your dorm residence hall food? Well there are a lot of eateries around the Manoa area, and elsewhere to eat!
