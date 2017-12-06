@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<center><img class="ui medium left floated image" src="../images/smartphone-vs-flip.gif" width="250px"></center>
+<center><img class="ui medium left floated image" src="../images/smartphone-vs-flip.gif" width="200px"></center>
 
 With the society we live in today, if something is not easy to use or navigate, we'd rather not use it. Think about it. Why has everyone moved on from RAZRs to iPhones? Back then, RAZRs were a hit! But now they aren't. However, not everyone is all about that iPhone life 📱. Every family get together I have, we have this running joke about my grandma still having a flip phone. When we ask her why she hasn't upgraded to an iPhone yet, she says she'd rather have her phone because it's easy for *her* to use.
 
