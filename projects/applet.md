@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true
+published: false
 image: images/apple-funny.jpg
 title: Applet Juice
 permalink: projects/applet
@@ -10,7 +10,7 @@ labels:
   - Java
   - Applet
   - jGRASP
-summary: Created an Applet of a cup of apple juice for my 'Drawing Applet' project. 
+summary: Created an Applet of a cup of apple juice for my 'Drawing Applet' project.
 ---
 
 <img src="../images/applet-art.png" width="75%">
@@ -28,13 +28,10 @@ For this assignment, we specifically needed to follow the criteria below:
     * Add color to your fonts
     * Use of style -- i.e. **bold**, *italics*
 
-In addition, we had to "animate" some part of our applet shapes with the use of a loop. 
+In addition, we had to "animate" some part of our applet shapes with the use of a loop.
 
-Here is a GIF sample of what my applet looked like in action: 
+Here is a GIF sample of what my applet looked like in action:
 
 <img src = "../images/applejuice.gif" width="20%">
 
 This project can be found [here](https://github.com/aprilbala/aprilbala.github.io/tree/master/projects/project-applet).
-
-
-
