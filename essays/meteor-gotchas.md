@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: "Meteor Gotchas"
 date: 2017-10-19
 labels:
