@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Meteor Shower 🚿
 date: 2017-10-26
 labels:
