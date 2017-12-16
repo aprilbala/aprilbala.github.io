@@ -26,6 +26,6 @@ For this project, my contributions included creating HTML mockups. I mocked up t
 <img src="../images/uhessentials-topic.png" width="400px">
 </center>
 
-This project was quite an experience because interestingly enough, it was my first group coding project that I had to do. I liked that I was not alone in this project, and I’m glad that this experience was not a bad one.
+This project was quite an experience because interestingly enough, it was my first group coding project that I had to do. For projects like this, communication is very important because everyone needs to be on the same page of who's doing what and when it needs to be done by. We had a small issue with this in where we were assigning different tasks to the people in our group, yet some of the tasks we needed to do couldn't be done, since another task wasn't completed yet. For example, there were tasks A, B, and C. Task B could not be completed till A was done, and further more, task C could not be started until task B was finished. It's important that everyone knows when the deadlines for each task is, that way the project is not being held back. Despite this issue, I really enjoyed this project and working with my group members, and I’m glad that this experience was not a bad one. 
 
 To see more about this project, you can visit our project home page [here](https://uhessentials.github.io/).
