@@ -20,12 +20,12 @@ For a final project for my software engineering class, I was placed in a group t
 For this project, my contributions included creating HTML mockups. I mocked up the profile and submit page (which were forms) and the home page. Additionally, when we got into the functional aspects of our application, I implemented a campus collection (database) for the “campus” dropdown field in the profile form. I also attempted to implement a thread and topic collection that would hold all the incoming posts that would be submitted through the submit form. Unfortunately, we were not successful at getting this feature to work, so many of the posts seen on our application now are all default/sample posts. I was in charge of deploying our application to Galaxy. And finally, since I was in charge of deployment, I always made sure that everything was finalized and set to go before we turned our project in.
 
 <center>
-<img src="../images/uhessentials-profile.png" width="400px">
-<img src="../images/uhessentials-home.png" width="400px">
-<img src="../images/uhessentials-thread.png" width="400px">
-<img src="../images/uhessentials-topic.png" width="400px">
+<img src="../images/uhessentials-profile.png" width="350px">
+<img src="../images/uhessentials-home.png" width="350px">
+<img src="../images/uhessentials-thread.png" width="350px">
+<img src="../images/uhessentials-topic.png" width="350px">
 </center>
 
-This project was quite an experience because interestingly enough, it was my first group coding project that I had to do. For projects like this, communication is very important because everyone needs to be on the same page of who's doing what and when it needs to be done by. We had a small issue with this in where we were assigning different tasks to the people in our group, yet some of the tasks we needed to do couldn't be done, since another task wasn't completed yet. For example, there were tasks A, B, and C. Task B could not be completed till A was done, and further more, task C could not be started until task B was finished. It's important that everyone knows when the deadlines for each task is, that way the project is not being held back. Despite this issue, I really enjoyed this project and working with my group members, and I’m glad that this experience was not a bad one. 
+This project was quite an experience because interestingly enough, it was my first group coding project that I had to do. For projects like this, communication is very important because everyone needs to be on the same page of who's doing what and when it needs to be done by. We had a small issue with this in where we were assigning different tasks to the people in our group, yet some of the tasks we needed to do couldn't be done, since another task wasn't completed yet. For example, there were tasks A, B, and C. Task B could not be completed till A was done, and further more, task C could not be started until task B was finished. It's important that everyone knows when the deadlines for each task is, that way the project is not being held back. Despite this issue, I really enjoyed this project and working with my group members, and I’m glad that this experience was not a bad one.
 
 To see more about this project, you can visit our project home page [here](https://uhessentials.github.io/).
