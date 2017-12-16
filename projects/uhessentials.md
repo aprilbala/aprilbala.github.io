@@ -9,10 +9,6 @@ date: 2017
 labels:
   - Software Engineering
   - Github
-  - Javascript
-  - HTML/CSS
-  - Meteor
-  - Galaxy
   - Teamwork
 summary: A web application that allows users to ask and answer questions about the University of Hawaii.
 ---
@@ -23,11 +19,12 @@ For a final project for my software engineering class, I was placed in a group t
 
 For this project, my contributions included creating HTML mockups. I mocked up the profile and submit page (which were forms) and the home page. Additionally, when we got into the functional aspects of our application, I implemented a campus collection (database) for the “campus” dropdown field in the profile form. I also attempted to implement a thread and topic collection that would hold all the incoming posts that would be submitted through the submit form. Unfortunately, we were not successful at getting this feature to work, so many of the posts seen on our application now are all default/sample posts. I was in charge of deploying our application to Galaxy. And finally, since I was in charge of deployment, I always made sure that everything was finalized and set to go before we turned our project in.
 
-<img src="../images/uhessentials-profile.png" width="200px">
-<img src="../images/uhessentials-home.png" width="200px">
-<img src="../images/uhessentials-thread.png" width="200px">
-<img src="../images/uhessentials-topic.png" width="200px">
-
+<center>
+<img src="../images/uhessentials-profile.png" width="400px">
+<img src="../images/uhessentials-home.png" width="400px">
+<img src="../images/uhessentials-thread.png" width="400px">
+<img src="../images/uhessentials-topic.png" width="400px">
+</center>
 
 This project was quite an experience because interestingly enough, it was my first group coding project that I had to do. I liked that I was not alone in this project, and I’m glad that this experience was not a bad one.
 
