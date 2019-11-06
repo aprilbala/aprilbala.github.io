@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false
+published: true
 image: images/abh-logo.jpg
 title: ABH, but in Semantic UI
 permalink: projects/abh-semanticui
