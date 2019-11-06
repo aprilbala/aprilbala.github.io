@@ -16,6 +16,6 @@ This was a project done for my ICS 466 (Design for Mobile Devices) class in Summ
 
 
 Hidden Treasure app relevant files:
-  - High Fidelity Prototype [PPT](files/hiddentreasure/AprilBala-HiddenTreasureHFP.pptx) [PDF]
-  - Hierarchical Task Analysis [DOC](files/hiddentreasure/HTA-FinalProject.docx) [PDF]
-  - Final Project Powerpoint Slides [PPT](files/hiddentreasure/ICS466-AprilBala-FinalProject.pptx) [PDF]
+  - High Fidelity Prototype [[PPT]](files/hiddentreasure/AprilBala-HiddenTreasureHFP.pptx) [[PDF]](files/hiddentreasure/AprilBala-HiddenTreasureHFP.pdf)
+  - Hierarchical Task Analysis [[DOC]](files/hiddentreasure/HTA-FinalProject.docx) [[PDF]](files/hiddentreasure/HTA-FinalProject.pdf)
+  - Final Project Powerpoint Slides [[PPT]](files/hiddentreasure/ICS466-AprilBala-FinalProject.pptx) [[PDF]](files/hiddentreasure/ICS466-AprilBala-FinalProject.pdf)
