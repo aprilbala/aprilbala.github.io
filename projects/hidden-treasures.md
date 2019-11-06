@@ -2,9 +2,9 @@
 layout: project
 type: project
 published: true
-image: images/hiddentreasures-appicon.png
-title: Hidden Treasures
-permalink: projects/hiddentreasures
+image: images/hiddentreasure-appicon.png
+title: Hidden Treasure
+permalink: projects/hiddentreasure
 date: 2018
 labels:
   - High Fidelity Prototyping
