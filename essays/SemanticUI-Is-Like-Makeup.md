@@ -27,7 +27,7 @@ and turn them into this!
 
 In my software engineering class, we were able to practice our Semantic UI skills by remaking already existing websites (that do not use Semantic UI), like [Island Snow](https://islandsnow.com/). We also had the opportunity to remake a website of our choice. I chose a makeup brand, [Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/). The screenshots on the left side of the following collage is the original website, while the right side are my takes on it with the use of Semantic UI elements. I implemented the headers (which include a dropdown menu), footer, and the center image that is displayed on the website page. In addition, I used [cards](https://semantic-ui.com/views/card.html) to display the latest products that this brand is promoting, with makeshift '+ Add to Cart' [buttons](https://semantic-ui.com/elements/button.html).
 <center>
-<div class="ui images"><img src="../images/abh.jpg" width="600px"></div>
+<div class="ui images"><img src="../images/abh-collage.jpg" width="600px"></div>
 </center>
 To see the code for this, you can click [here](https://github.com/aprilbala/abhcosmetics-mock).
 
