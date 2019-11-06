@@ -13,3 +13,9 @@ summary:
 ---
 
 This was a project done for my ICS 466 (Design for Mobile Devices) class in Summer 2018. Through this class, we learned of all the steps that take place in planning and brainstorming of a future applications. This project was a culmination
+
+
+Hidden Treasure app relevant files:
+  - High Fidelity Prototype [PPT](files/hiddentreasure/AprilBala-HiddenTreasureHFP.pptx) [PDF]
+  - Hierarchical Task Analysis [DOC](files/hiddentreasure/HTA-FinalProject.docx) [PDF]
+  - Final Project Powerpoint Slides [PPT](files/hiddentreasure/ICS466-AprilBala-FinalProject.pptx) [PDF]
