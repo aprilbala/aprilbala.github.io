@@ -66,7 +66,7 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -76,7 +76,7 @@
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2014-08-01",
-      "endDate": "Present",
+      "endDate": "2019-05",
       "gpa": "",
       "courses": [
       ]
@@ -85,10 +85,16 @@
   "work": [
     {
       "company": "Hollister Co.",
+      "position": "Full Time Stock",
+      "website": "",
+      "startDate": "2020-02",
+      "endDate": "Present",
+      "summary": "",
+      "company": "Hollister Co.",
       "position": "Stock Associate",
       "website": "",
       "startDate": "2015-02-08",
-      "endDate": "Present",
+      "endDate": "2020-02",
       "summary": "",
     }
   ],
