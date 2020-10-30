@@ -72,11 +72,21 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2019)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2014-08-01",
       "endDate": "2019-05",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiʻolani Community College, Honolulu, HI",
+      "area": "Liberal Arts (Spring, 2018)",
+      "studyType": "A.A.",
+      "startDate": "2014-08",
+      "endDate": "2018-05",
       "gpa": "",
       "courses": [
       ]
