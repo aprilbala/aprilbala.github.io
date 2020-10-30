@@ -12,11 +12,16 @@ labels:
   - Python
 summary: Created a database backed project for my Funko Pop collection.
 ---
+This is an an assignment that was done for my ICS 321 class, Database Systems I. The purpose of this assignment was to create a database management system (DBMS) web application. 
 
-<h1>This project page is a WIP. </h1>
+As a Funko Pop collector, over the years I have accumulated over 20+ figurines. Additionally as more gets released,
 
-This is an an assignment that was done for my ICS 321 class, Database Systems I. We used ....
+
 
 A video explaining this project can be found [here](https://www.youtube.com/watch?v=Tqvs8DM7cUA).
+
+<hr>
+This project page is a WIP.
+
 <!-- This project can be found [here](https://github.com/aprilbala/aprilbala.github.io/tree/master/projects/project-applet).
  -->
