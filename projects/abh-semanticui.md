@@ -19,14 +19,14 @@ I chose to remake [Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com
 
 At the time of this project, the ABH home page looked like this:
 <center>
-<div class="ui images"><img src="../images/abh-1.png" width="600px"></div>
-<div class="ui images"><img src="../images/abh-2.png" width="600px"></div>
+<div class="ui images"><img src="../images/screenshots-abh-semanticui/abh-1.png" width="600px"></div>
+<div class="ui images"><img src="../images/screenshots-abh-semanticui/abh-2.png" width="600px"></div>
 </center>
 
 With Semantic UI, I was able to recreate it into this:
 <center>
-<div class="ui images"><img src="../images/abh-mock1.png" width="600px"></div>
-<div class="ui images"><img src="../images/abh-mock2.png" width="600px"></div>
+<div class="ui images"><img src="../images/screenshots-abh-semanticui/abh-mock1.png" width="600px"></div>
+<div class="ui images"><img src="../images/screenshots-abh-semanticui/abh-mock2.png" width="600px"></div>
 </center>
 
 <br>
