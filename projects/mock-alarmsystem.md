@@ -38,7 +38,7 @@ REAL ALARM SYSTEM SCREENS:
 DRILL ALARM SYSTEM SCREENS:
 <center>
 <img src="../images/screenshots-hialertsystem/drill-alarmoptions.png" width="325px">
-<img src="../images/screenshots-hialertsystem/drill-selectedalarm-home.png" width="325px">
+<img src="../images/screenshots-hialertsystem/drill-selectedalarm.png" width="325px">
 <img src="../images/screenshots-hialertsystem/drill-options.png" width="325px">
 <img src="../images/screenshots-hialertsystem/drill-alarmreview.png" width="325px">
 <img src="../images/screenshots-hialertsystem/drill-sent.png" width="325px">
