@@ -27,7 +27,7 @@ My contributions for this project was: fhakslfjhskfjh.
 REAL ALARM SYSTEM SCREENS:
 <center>
 <img src="../images/screenshots-hialertsystem/real-alarmoptions.png" width="325px">
-<img src="../images/screenshots-hialertsystem/real-selectedalarm-home.png" width="325px">
+<img src="../images/screenshots-hialertsystem/real-selectedalarm.png" width="325px">
 <img src="../images/screenshots-hialertsystem/real-options.png" width="325px">
 <img src="../images/screenshots-hialertsystem/real-alarmreview.png" width="325px">
 <img src="../images/screenshots-hialertsystem/real-askforsupervisorapproval.png" width="325px">
