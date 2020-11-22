@@ -26,22 +26,22 @@ My contributions for this project was: fhakslfjhskfjh.
 
 REAL ALARM SYSTEM SCREENS:
 <center>
-<img src="../images/screenshots-hialertsystem/real-alarmoptions.png" width="325px">
-<img src="../images/screenshots-hialertsystem/real-selectedalarm.png" width="325px">
-<img src="../images/screenshots-hialertsystem/real-options.png" width="325px">
-<img src="../images/screenshots-hialertsystem/real-alarmreview.png" width="325px">
-<img src="../images/screenshots-hialertsystem/real-askforsupervisorapproval.png" width="325px">
-<img src="../images/screenshots-hialertsystem/real-await-supervisor-alertbox.png" width="325px">
-<img src="../images/screenshots-hialertsystem/real-sent.png" width="325px">
+<img src="../images/screenshots-hialertsystem/real-alarmoptions.png" width="600px">
+<img src="../images/screenshots-hialertsystem/real-selectedalarm.png" width="600px">
+<img src="../images/screenshots-hialertsystem/real-options.png" width="600px">
+<img src="../images/screenshots-hialertsystem/real-alarmreview.png" width="600px">
+<img src="../images/screenshots-hialertsystem/real-askforsupervisorapproval.png" width="600px">
+<img src="../images/screenshots-hialertsystem/real-await-supervisor-alertbox.png" width="600px">
+<img src="../images/screenshots-hialertsystem/real-sent.png" width="600px">
 </center>
 
 DRILL ALARM SYSTEM SCREENS:
 <center>
-<img src="../images/screenshots-hialertsystem/drill-alarmoptions.png" width="325px">
-<img src="../images/screenshots-hialertsystem/drill-selectedalarm.png" width="325px">
-<img src="../images/screenshots-hialertsystem/drill-options.png" width="325px">
-<img src="../images/screenshots-hialertsystem/drill-alarmreview.png" width="325px">
-<img src="../images/screenshots-hialertsystem/drill-sent.png" width="325px">
+<img src="../images/screenshots-hialertsystem/drill-alarmoptions.png" width="600px">
+<img src="../images/screenshots-hialertsystem/drill-selectedalarm.png" width="600px">
+<img src="../images/screenshots-hialertsystem/drill-options.png" width="600px">
+<img src="../images/screenshots-hialertsystem/drill-alarmreview.png" width="600px">
+<img src="../images/screenshots-hialertsystem/drill-sent.png" width="600px">
 </center>
 
 
