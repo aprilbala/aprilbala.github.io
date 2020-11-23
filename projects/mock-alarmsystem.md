@@ -18,13 +18,13 @@ summary: A application that simulates Hawaii's emergency alert system.
 <div class="ui images"><img src="../images/screenshots-hialertsystem/start.png" width="600px"></div>
 </center>
 
-In January 2018, Hawaii experienced a (thankfully) false alarm of an incoming ballistic missile, where alerts were issued statewide. A New York Times article regarding this event could be found [here](https://www.nytimes.com/2018/01/13/us/hawaii-missile.html).  Due to this event, it inspired a group project for a software engineering class that I took while I was in school. For this application, we were expected to create a "better" system that would decrease the chances of another mishap like this to happen again. 
+In January 2018, Hawaii experienced a (thankfully) false alarm of an incoming ballistic missile, where alerts were issued statewide. A New York Times article regarding this event could be found [here](https://www.nytimes.com/2018/01/13/us/hawaii-missile.html).  Due to this event, it inspired a group project for a software engineering class that I took while I was in school. For this application, we were expected to create a "better" system that would decrease the chances of another mishap like this to happen again in the future. 
 
-Within our group, we created our own different mockups as to what we would like to 
+Not only did this project give us experience working as a team, it also allowed us to practice parts of the software development lifecycle (SDLC). Planning and mockups of our application were done, which in turn led to building our application based on the mockup that was chosen. After basic HTML 
 
 My contributions for this project was: fhakslfjhskfjh.
 
-REAL ALARM SYSTEM SCREENS:
+Below are screenshots of an individual sending a real tsunami alert via siren, text message, and radio alerts to the Hawai'i Island.
 <center>
 <img src="../images/screenshots-hialertsystem/real-alarmoptions.png" width="600px">
 <img src="../images/screenshots-hialertsystem/real-selectedalarm.png" width="600px">
@@ -34,6 +34,8 @@ REAL ALARM SYSTEM SCREENS:
 <img src="../images/screenshots-hialertsystem/real-await-supervisor-alertbox.png" width="600px">
 <img src="../images/screenshots-hialertsystem/real-sent.png" width="600px">
 </center>
+As you will see in screenshots #5-6, real alarms would require a supervisor to be notified, who in turn will then allow 
+
 
 DRILL ALARM SYSTEM SCREENS:
 <center>
