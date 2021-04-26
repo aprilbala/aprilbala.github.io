@@ -29,3 +29,5 @@ For this project, my contributions included creating HTML mockups. I mocked up t
 This project was quite an experience since it was my first group coding project that I had to do. For projects like this, communication is very important because everyone needs to be on the same page of who's doing what and when it needs to be done by. For example, between our group members, we were assigned tasks A, B, and C. Task B could not be completed till task A was done, and further more, task C could not be started until task B was finished. It is important that everyone knows when the deadlines for each task is, that way project is not being held back. Despite this issue, I really enjoyed this project and working with my group members, and I’m glad that this experience was not a bad one.
 
 To see more about this project, you can visit our project home page [here](https://uhessentials.github.io/).
+
+<br>

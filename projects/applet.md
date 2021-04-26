@@ -35,3 +35,5 @@ Here is a GIF sample of what my applet looked like in action:
 <img src = "../images/applejuice.gif" width="20%">
 
 This project can be found [here](https://github.com/aprilbala/aprilbala.github.io/tree/master/projects/project-applet).
+
+<br>

@@ -21,3 +21,5 @@ Here is a sample output of the test cases that I made:
 <img src="../images/checkoutlanes.png" width="500">
 
 The link to this project is [here](https://github.com/aprilbala/aprilbala.github.io/tree/master/projects/project-checkoutLanesQueue).
+
+<br>

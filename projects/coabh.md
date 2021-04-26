@@ -26,3 +26,5 @@ COABH was a website that provided viewers [information](http://cracksofabrokenhe
 The website was designed and made using [Wix](https://www.wix.com/), a free website builder that made it simple to create with the use of templates and drag and drop tools. This project sparked my interest in web design. I enjoyed putting this website together, and I felt a sense of accomplishment seeing how many individuals took part in contributing their stories. I am glad these viewers felt that COABH was a safe place for them to share their feelings with the world. These contributions are what made my project so successful. 
 
 To see more about this project, you can click [here](http://cracksofabrokenheart.wixsite.com/coabh).
+
+<br>

@@ -31,4 +31,5 @@ With Semantic UI, I was able to recreate it into this:
 
 <br>
 To see the code for this project, you can click [here](https://github.com/aprilbala/abhcosmetics-mock).
+
 <br>

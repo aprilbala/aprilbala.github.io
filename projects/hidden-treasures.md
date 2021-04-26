@@ -19,3 +19,6 @@ Hidden Treasure app relevant files:
   - High Fidelity Prototype [[PPT]](https://aprilbala.github.io/files/hiddentreasure/AprilBala-HiddenTreasureHFP.pptx) [[PDF]](https://aprilbala.github.io/files/hiddentreasure/AprilBala-HiddenTreasureHFP.pdf)
   - Hierarchical Task Analysis [[DOC]](https://aprilbala.github.io/files/hiddentreasure/HTA-FinalProject.docx) [[PDF]](https://aprilbala.github.io/files/hiddentreasure/HTA-FinalProject.pdf)
   - Final Project Powerpoint Slides [[PPT]](https://aprilbala.github.io/files/hiddentreasure/ICS466-AprilBala-FinalProject.pptx) [[PDF]](https://aprilbala.github.io/files/hiddentreasure/ICS466-AprilBala-FinalProject.pdf)
+  
+  <br>
+  

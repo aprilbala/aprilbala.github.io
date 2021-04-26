@@ -52,6 +52,8 @@ My contributions for this project was: fhakslfjhskfjh.
 
 A video demonstration of this project can be found [here](https://www.youtube.com/watch?v=MYHrNHuo21U).
 
+<br>
+
 <hr>
 Note: This project page is a WIP.
 
