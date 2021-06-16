@@ -25,7 +25,7 @@ The plan intended for this web app was to keep track of the figurines I currentl
 <center>
   <figure>
     <div class="ui images"><img src="../images/screenshots-funkollector/mycollectionpage.png" width="600px"></div>
-    <figcaption font-style="italic">"My Collection" page</figcaption>
+    <figcaption>"My Collection" page</figcaption>
   </figure>
 </center>
 
