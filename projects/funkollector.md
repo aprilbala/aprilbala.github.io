@@ -59,6 +59,7 @@ Adding to the collection or wishlist lists could be done through their respectiv
 Looking back on this project, there are definelty things I would improve and add. For instance, I would add a feature that allows a user to edit and remove existing entires on the <i>My Collection</i> and <i>My Wishlist</i> lists. Additionally, I would add a feature that allows users to move entries between the two lists (i.e. moving a Funko Pop added to <i>My Wishlist</i> to <i>My Collection</i>).
 
 The code for this project can be found in my Funkollector repository on my GitHub [here](https://github.com/aprilbala/funkollector). Additionally, a video explaining the project can be found [here](https://www.youtube.com/watch?v=Tqvs8DM7cUA).
+
 <br>
 
 <!-- This project can be found [here](https://github.com/aprilbala/aprilbala.github.io/tree/master/projects/project-applet).
