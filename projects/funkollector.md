@@ -18,18 +18,19 @@ summary: Created a database backed project inspired to track my Funko Pop collec
 <div class="ui images"><img src="../images/screenshots-funkollector/homepage.png" width="600px"></div>
 </center>
 
-Funkollector is an assignment that was done for my ICS 321 class, Database Systems I. The purpose of this assignment was to create a database management system (DBMS) web application. I chose to use this assignment as a way to keep track of my collection of Funko Pops. Funko Pops are collectible vinyl figurines made by the [Funko](https://www.funko.com/) company. 
+Funkollector is an assignment that was done for my ICS 321 class, Database Systems I. The purpose of this assignment was to create a database management system (DBMS) web application. I chose to use this assignment as a way to keep track of my collection of Funko Pops. Funko Pops are collectible vinyl figurines made by the [Funko](https://www.funko.com/) company. Over the years, I have accumulated over 20+ figurines. Till this day, my collection continues to grow even more, since the company does really new figurines every few months. 
 
-Over the years, I have accumulated over 20+ figurines. My collection continues to grow even more, since the company does
+The plan intended for this web app was to keep track of the figurines I currently owned ("My Collection") and figurines I wanted to add to my collection ("My Wishlist").
 
-Every couple of months, the company releases new figurines,
- as more gets released, so did my collect As a Funko Pop collector, over the years I have accumulated over 20+ figurines. 
+<center>
+<div class="ui images"><img src="../images/screenshots-funkollector/mycollectionform.png" width="600px"></div>
+<caption font-style="italic">"My Collection" page</caption>
+</center>
 
-This is why I chose to use this project as a way to keep track of my current collection and wishlist.
 
-
-The plan intended for this web app was to be able a track of two collections: 
-
+<center>
+<div class="ui images"><img src="../images/screenshots-funkollector/mycollectionform.png" width="600px"></div>
+</center>
 
 <center>
 <div class="ui images"><img src="../images/screenshots-funkollector/mycollectionform.png" width="600px"></div>
