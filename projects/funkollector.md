@@ -25,16 +25,23 @@ The plan intended for this web app was to keep track of the figurines I currentl
 <center>
   <figure>
     <div class="ui images"><img src="../images/screenshots-funkollector/mycollectionpage.png" width="600px"></div>
-    <figcaption font-style="italic">"My Collection" page</figcaption>
+    <i>"My Collection" page</i>
   </figure>
 </center>
 
 <center>
-<div class="ui images"><img src="../images/screenshots-funkollector/mywishlistpage.png" width="600px"></div>
+  <figure>
+    <div class="ui images"><img src="../images/screenshots-funkollector/mywishlistpage.png" width="600px"></div>
+    <i>"My Wishlist" page</i>
+  </figure>
 </center>
 
 <center>
 <div class="ui images"><img src="../images/screenshots-funkollector/mycollectionform.png" width="600px"></div>
+</center>
+
+<center>
+<div class="ui images"><img src="../images/screenshots-funkollector/mywishlistform.png" width="600px"></div>
 </center>
 
 Looking back on this project, there are definelty things I would improve and add. For instance, I would add a feature that t=a
