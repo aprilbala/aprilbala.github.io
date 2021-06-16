@@ -36,7 +36,7 @@ For assignment purposes, Funkollector consisted of two lists: My Collection and 
 <center>
   <figure>
     <div class="ui images"><img src="../images/screenshots-funkollector/mywishlistpage.png" width="600px"></div>
-    <i>"My Wishlist" page</i>
+    <i>My Wishlist</i> page
   </figure>
 </center>
 
@@ -45,22 +45,21 @@ Adding to the collection or wishlist lists could be done through their respectiv
 <center>
   <figure>
     <div class="ui images"><img src="../images/screenshots-funkollector/mycollectionform.png" width="600px"></div>
-    <i>Form to add to My Collection</i>
+    Form to add to <i>My Collection</i>
   </figure>
 </center>
 
 <center>
   <figure>
     <div class="ui images"><img src="../images/screenshots-funkollector/mywishlistform.png" width="600px"></div>
-    <i>Form to add to My Wishlists</i>
+    Form to add to <i>My Wishlist</i>
   </figure>
 </center>
 
+<br>
 Looking back on this project, there are definelty things I would improve and add. For instance, I would add a feature that t=a
 
 The code for this project can be found in my Funkollector repository on my GitHub [here](https://github.com/aprilbala/funkollector). Additionally, a video explaining the project can be found [here](https://www.youtube.com/watch?v=Tqvs8DM7cUA).
-
-<br>
 
 <hr>
 This project page is a WIP.
