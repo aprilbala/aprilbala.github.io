@@ -23,10 +23,8 @@ Funkollector is an assignment that was done for my ICS 321 class, Database Syste
 The plan intended for this web app was to keep track of the figurines I currently owned ("My Collection") and figurines I wanted to add to my collection ("My Wishlist").
 
 <center>
-  <figure>
     <div class="ui images"><img src="../images/screenshots-funkollector/mycollectionpage.png" width="600px"></div>
     <i>"My Collection" page</i>
-  </figure>
 </center>
 
 <center>
@@ -37,11 +35,13 @@ The plan intended for this web app was to keep track of the figurines I currentl
 </center>
 
 <center>
-<div class="ui images"><img src="../images/screenshots-funkollector/mycollectionform.png" width="600px"></div>
+  <div class="ui images"><img src="../images/screenshots-funkollector/mycollectionform.png" width="600px"></div>
+  <i>Form to add to My Collection</i>
 </center>
 
 <center>
-<div class="ui images"><img src="../images/screenshots-funkollector/mywishlistform.png" width="600px"></div>
+  <div class="ui images"><img src="../images/screenshots-funkollector/mywishlistform.png" width="600px"></div>
+  <i>Form to add to My Wishlists</i>
 </center>
 
 Looking back on this project, there are definelty things I would improve and add. For instance, I would add a feature that t=a
