@@ -23,13 +23,12 @@ Funkollector is an assignment that was done for my ICS 321 class, Database Syste
 The plan intended for this web app was to keep track of the figurines I currently owned ("My Collection") and figurines I wanted to add to my collection ("My Wishlist").
 
 <center>
-<div class="ui images"><img src="../images/screenshots-funkollector/mycollectionform.png" width="600px"></div>
+<div class="ui images"><img src="../images/screenshots-funkollector/mycollectionpage.png" width="600px"></div>
 <caption font-style="italic">"My Collection" page</caption>
 </center>
 
-
 <center>
-<div class="ui images"><img src="../images/screenshots-funkollector/mycollectionform.png" width="600px"></div>
+<div class="ui images"><img src="../images/screenshots-funkollector/mywishlistpage.png" width="600px"></div>
 </center>
 
 <center>
