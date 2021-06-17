@@ -12,7 +12,7 @@ labels:
 summary: A project demonstrating the planning/brainstorming process for a web application called Hidden Treasure.
 ---
 
-This was a project done for my ICS 466 (Design for Mobile Devices) class in Summer 2018. Through this class, we learned of all the steps that take place in planning and brainstorming of a future applications. This project was a culmination
+Hidden Treasures was a project I completed for my ICS 466 (Design for Mobile Devices) class in Summer 2018. In this class, we learned of all the steps that take place in planning and brainstorming of a future applications. This project was a culmination
 
 
 Hidden Treasure app relevant files:
